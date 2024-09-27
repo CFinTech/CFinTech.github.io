@@ -18,7 +18,7 @@ cfintuo@gmail.com
 
 🔥 News
 =====
-- **\[2024.9\]** I received **National Scholarship** <u>(¥8,000)</u> for the academic year 2023-2024, with the rank **1/73**
+- **\[2024.9\]** I received **National Scholarship** <u>(¥8,000)</u> for the academic year 2023-2024, with the rank **1/73**.
 - **\[2024.7\]** I won the **Gold Award** in [China International College Students' Innovation Competition, Shanghai](https://cy.ncss.cn/) as the **team leader and founder**.
 - **\[2024.6\]** I got an research internship opportunity in EncodeLab at [Westlake University](https://www.westlake.edu.cn/), advised by [Prof. Huan Wang](https://huanwang.tech/)!
 - **\[2023.9\]** I received **National Scholarship** <u>(¥8,000)</u> for the academic year 2022-2023, with the rank **1/198**.
