@@ -16,13 +16,29 @@ $indent-var : 1.3em;
 $serif : Georgia,
 Times,
 serif;
-$sans-serif : "Inter",
-"Noto Sans SC",
--apple-system,
-".SFNSText-Regular",
-"San Francisco",
-"Roboto",
+// $sans-serif : "Inter",
+// "Noto Sans SC",
+// -apple-system,
+// ".SFNSText-Regular",
+// "San Francisco",
+// "Roboto",
+// "Segoe UI",
+// "Helvetica Neue",
+// "Lucida Grande",
+// Arial,
+// sans-serif;
+
+$sans-serif : "Trebuchet MS",
+// 主体西文字体（Win/mac 均常见）
+"PingFang SC",
+"Hiragino Sans GB",
+// macOS 中文
+"Microsoft YaHei",
+// Windows 中文
+"WenQuanYi Micro Hei",
+// Linux 常见中文
 "Segoe UI",
+Roboto,
 "Helvetica Neue",
 "Lucida Grande",
 Arial,
