@@ -12,9 +12,8 @@ redirect_from:
 Due to my previous entrepreneurial project experience, I have some **industry insights** in the field of **high-rise building maintenance**. If you are interested in the inspection and maintenance of high-rise building facades, feel free to reach out to me!
 
 I am actively seeking **2026 fall PhD opportunities**.
- 
-**Contact** \\
-cfintuo@gmail.com
+
+<br>
 
 🔥 News
 =====
@@ -27,6 +26,7 @@ cfintuo@gmail.com
 - **\[2023.3\]** I was admitted to [Guohao College](https://ghc.tongji.edu.cn/) at Tongji University, only 7 freshmen were selected in this turn!
 - **\[2022.9\]** I was admitted to [Tongji University](https://www.tongji.edu.cn/)!
 
+<br>
 
 🏆 Selected Honors
 =====
