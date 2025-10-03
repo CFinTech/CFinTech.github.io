@@ -19,7 +19,7 @@ I am actively seeking **2026 fall PhD opportunities**.
 =====
 <!-- - **\[2025.9\]** I received **National Scholarship** for the academic year 2024-2025, this is the **third time** I have received it.  -->
 - **\[2025.6\]** We release [SparseSSM](https://arxiv.org/abs/2506.09613), my first work in the research field!
-- **\[2025.5\]** I received **Qidi Scholarsh** for the academic year 2023-2024.
+- **\[2025.5\]** I received **Qidi Scholarship** for the academic year 2023-2024.
 - **\[2024.9\]** I received **National Scholarship** for the academic year 2023-2024.
 <!-- - **\[2024.7\]** I won the **Gold Award (<font color="#dd0000">0.02%</font>)** in [China International College Students' Innovation Competition, Shanghai](https://cy.ncss.cn/) as the **team leader and founder**. -->
 - **\[2024.6\]** I got an research internship opportunity in EncodeLab at [Westlake University](https://www.westlake.edu.cn/), advised by [Prof. Huan Wang](https://huanwang.tech/)!
