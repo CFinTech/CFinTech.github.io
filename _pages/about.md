@@ -17,6 +17,7 @@ I am actively seeking **2026 fall PhD opportunities**.
 
 🔥 News
 =====
+- **\[2025.10\]** We release [RewardMap](https://arxiv.org/abs/2510.02240)!
 <!-- - **\[2025.9\]** I received **National Scholarship** for the academic year 2024-2025, this is the **third time** I have received it.  -->
 - **\[2025.6\]** We release [SparseSSM](https://arxiv.org/abs/2506.09613), my first work in the research field!
 - **\[2025.5\]** I received **Qidi Scholarship** for the academic year 2023-2024.
