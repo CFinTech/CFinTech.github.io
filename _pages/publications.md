@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-entries_layout: list 
+entries_layout: grid
 show_excerpts: true
 ---
 
