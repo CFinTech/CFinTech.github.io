@@ -3,7 +3,7 @@ title: "SparseSSM: Efficient Selective Structured State Space Models Can Be Prun
 collection: publications
 permalink: /publication/sparsessm/
 date: 2025-06-12 
-venue: "arXiv, 2025"
+venue: "arXiv"
 authors: "**Kaiwen Tuo**, Huan Wang"
 # 关键：给列表页用的缩略图（左侧小图）
 header:
@@ -16,6 +16,6 @@ excerpt: "**Preprint**, 2025, <i class='far fa-file-pdf'></i> <a href='https://a
 
 *{{ page.venue }}*  
 
-<!-- {{ excerpt }} -->
+{{ excerpt }}
 <i class="far fa-file-pdf"></i> <a href="https://arxiv.org/abs/xxxx">ArXiv</a> &nbsp; | &nbsp;
 <i class="fab fa-github"></i> <a href="https://github.com/xxx/xxx">Code</a>
