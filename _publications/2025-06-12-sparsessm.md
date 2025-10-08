@@ -16,6 +16,6 @@ excerpt: "**Preprint**, 2025, <i class='far fa-file-pdf'></i> <a href='https://a
 
 *{{ page.venue }}*  
 
-{{ excerpt }}
-<!-- <i class="far fa-file-pdf"></i> <a href="https://arxiv.org/abs/xxxx">ArXiv</a> &nbsp; | &nbsp;
-<i class="fab fa-github"></i> <a href="https://github.com/xxx/xxx">Code</a> -->
+<!-- {{ excerpt }} -->
+<i class="far fa-file-pdf"></i> <a href="https://arxiv.org/abs/xxxx">ArXiv</a> &nbsp; | &nbsp;
+<i class="fab fa-github"></i> <a href="https://github.com/xxx/xxx">Code</a>
