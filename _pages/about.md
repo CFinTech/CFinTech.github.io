@@ -17,7 +17,8 @@ I am actively seeking **2026 fall PhD opportunities**.
 
 🔥 News
 =====
-- **\[2025.10\]** We release [RewardMap](https://arxiv.org/abs/2510.02240), which is reported by **[机器之心](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650996789&idx=3&sn=13cdd85bd8d5a11c6564afa608b71b1c&poc_token=HMJy_2ij7Wk0Lw-NNiTWrBSKE-gsUklhVUK4cNRF)**!
+- **\[2025.10\]** I received **National Scholarship** for the academic year 2024-2025, which was my third time to receive it.
+- **\[2025.10\]** We release [RewardMap](https://arxiv.org/abs/2510.02240), which was reported by **[机器之心](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650996789&idx=3&sn=13cdd85bd8d5a11c6564afa608b71b1c&poc_token=HMJy_2ij7Wk0Lw-NNiTWrBSKE-gsUklhVUK4cNRF)**!
 <!-- - **\[2025.9\]** I received **National Scholarship** for the academic year 2024-2025, this is the **third time** I have received it.  -->
 - **\[2025.6\]** We release [SparseSSM](https://arxiv.org/abs/2506.09613), my first work in the research field!
 - **\[2025.5\]** I received **Qidi Scholarship** for the academic year 2023-2024.
@@ -33,7 +34,7 @@ I am actively seeking **2026 fall PhD opportunities**.
 
 🏆 Selected Honors
 =====
-<!-- - **2024-2025 National Scholarship** (national-wide, 0.4%) -->
+- **2024-2025 National Scholarship** (national-wide, 0.4%)
 - **2023-2024 National Scholarship** (national-wide, 0.4%)
 - **2022-2023 National Scholarship** (national-wide, 0.2%)
 - **Inspirational Star (Nomination Award)** (school-wide, <font color="#dd0000">0.05%</font>)
