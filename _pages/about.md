@@ -21,8 +21,8 @@ Due to my previous entrepreneurial project experience, I have some **industry in
 - **\[2025.10\]** We released [RewardMap](https://arxiv.org/abs/2510.02240), which was reported by **[机器之心](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650996789&idx=3&sn=13cdd85bd8d5a11c6564afa608b71b1c&poc_token=HMJy_2ij7Wk0Lw-NNiTWrBSKE-gsUklhVUK4cNRF)**!
 <!-- - **\[2025.9\]** I received **National Scholarship** for the academic year 2024-2025, this is the **third time** I have received it.  -->
 - **\[2025.6\]** We released [SparseSSM](https://arxiv.org/abs/2506.09613), my first work in the research field!
-<!-- - **\[2025.5\]** I received **Qidi Scholarship** for the academic year 2023-2024.
-- **\[2024.9\]** I received **National Scholarship** for the academic year 2023-2024. -->
+<!-- - **\[2025.5\]** I received **Qidi Scholarship** for the academic year 2023-2024. -->
+<!-- - **\[2024.9\]** I received **National Scholarship** for the academic year 2023-2024. -->
 <!-- - **\[2024.7\]** I won the **Gold Award (<font color="#dd0000">0.02%</font>)** in [China International College Students' Innovation Competition, Shanghai](https://cy.ncss.cn/) as the **team leader and founder**. -->
 - **\[2024.6\]** I got an research internship opportunity in EncodeLab at [Westlake University](https://www.westlake.edu.cn/), advised by [Prof. Huan Wang](https://huanwang.tech/)!
 <!-- - **\[2023.9\]** I received **National Scholarship** for the academic year 2022-2023. -->
